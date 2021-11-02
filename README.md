@@ -3,8 +3,8 @@
 # I'm Luana Cristini!
 
 :computer: I’m currently working as QA tester <br>
-:house_with_garden: I’m from Brazil. <br>
-:books: I’m learning about DevOps, Frontend and Backend.
+:house_with_garden: I’m from Brazil <br>
+:books: I’m learning about DevOps, Frontend and Backend
 <br>
 <br>
 
