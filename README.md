@@ -25,6 +25,4 @@ Feel free to connect with me on the following platforms:
  
 ###
 
-Thanks for checking out my GitHub profile. I'm always interested in connecting with like-minded individuals, so don't hesitate to reach out!
-
-
+Thanks for checking out my GitHub profile. I'm always interested in connecting with people who share my passion for technology and also with those who have different perspectives and experiences, so don't hesitate to reach out!
