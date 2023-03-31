@@ -2,13 +2,16 @@
 
 # Hi there, I'm Luana Cristini! 👋
 
-I'm a Software Tester Engineer from Brazil with a passion for learning about all things DevOps, Frontend and Backend. This README is here to provide some information about who I am, what I do and how to get in touch with me.
+I'm a Software Tester Engineer from Brazil with a passion with a passion for discovering new tools and technologies. This README is here to provide some information about who I am, what I do and how to get in touch with me.
 
 ## What I'm up to
 
 :computer: I'm currently working as a Software Tester Engineer <br>
 :books: I'm learning about DevOps, Frontend and Backend <br>
-💬 Ask me about anything related to software testing or my tech learning journey!
+💬 Ask me about anything related to software testing or my tech learning journey! <br>
+
+When I'm not coding or studying, I like to spend quality time with my furry family members. I have two lovable dogs and three adorable cats who always manage to put a smile on my face! In my free time, you can also find me listening to music or playing video games.
+
 <br>
 <br>
  
