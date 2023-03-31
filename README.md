@@ -11,8 +11,6 @@ I'm a Software Tester Engineer from Brazil with a passion for discovering new to
 💬 Ask me about anything related to software testing or my tech learning journey! <br>
 
 When I'm not coding or studying, I like to spend quality time with my furry family members. I have two lovable dogs and three adorable cats who always manage to put a smile on my face! In my free time, you can also find me listening to music or playing video games.
-
-<br>
 <br>
  
 ## How to reach me
