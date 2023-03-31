@@ -2,7 +2,7 @@
 
 # Hi there, I'm Luana Cristini! 👋
 
-I'm a Software Tester Engineer from Brazil with a passion with a passion for discovering new tools and technologies. This README is here to provide some information about who I am, what I do and how to get in touch with me.
+I'm a Software Tester Engineer from Brazil with a passion for discovering new tools and technologies. This README is here to provide some information about who I am, what I do and how to get in touch with me.
 
 ## What I'm up to
 
