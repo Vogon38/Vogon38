@@ -7,7 +7,7 @@ I'm a Software Tester Engineer from Brazil with a passion for learning about all
 ## What I'm up to
 
 :computer: I'm currently working as a Software Tester Engineer <br>
-:books: I'm learning about DevOps, Frontend and Backend
+:books: I'm learning about DevOps, Frontend and Backend <br>
 💬 Ask me about anything related to software testing or my tech learning journey!
 <br>
 <br>
