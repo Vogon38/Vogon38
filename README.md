@@ -23,7 +23,9 @@ I'm always interested in connecting with people who share my passion for technol
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/whothefisluana)](https://twitter.com/whothefisluana)
 <br>
 
-<div style="background-color: #333; color: #fff; padding: 20px;">
-  <p style="text-align: center; font-size: 12px; font-weight: bold;">Thank you for stopping by</p>
+ ---
+  
+<div style="background-color: white; color: black; padding: 20px;">
+  <p style="text-align: center;">Thank you for stopping by</p>
 </div>
 
