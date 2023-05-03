@@ -4,9 +4,7 @@
 
 I'm a Software Tester Engineer from Brazil with a passion for discovering new tools and technologies.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" alt="Excited to contribute">
-</p>
+<img src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" alt="Excited to contribute" align="left">
 
 ## What I'm up to
 
