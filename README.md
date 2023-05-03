@@ -25,7 +25,6 @@ I'm always interested in connecting with people who share my passion for technol
 
  ---
   
-<div style="background-color: white; color: black; padding: 20px;">
-  <p style="text-align: center;">Thank you for stopping by</p>
+<div align="center" style="background-color: white; color: black; padding: 20px;">
+  <p>Thank you for stopping by</p>
 </div>
-
