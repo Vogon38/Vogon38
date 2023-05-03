@@ -24,5 +24,3 @@ I'm always interested in connecting with people who share my passion for technol
 <br>
 
 ## Thank you for stopping by
-
-I'm always interested in connecting with people who share my passion for technology and also with those who have different perspectives and experiences, so don't hesitate to reach out!
