@@ -16,7 +16,7 @@ I'm a Software Tester Engineer from Brazil with a passion for discovering new to
 
 </details>
 
-<details id=1>
+<details id=1 open>
 <summary><h2>How to reach me</h2></summary>
 
 I'm always interested in connecting with people who share my passion for technology and also with those who have different perspectives and experiences, so don't hesitate to reach out! 
