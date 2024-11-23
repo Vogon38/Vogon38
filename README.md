@@ -25,7 +25,6 @@ I'm always interested in connecting with people who share my passion for technol
 </details>
 
 [![Linkedin Badge](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luanacristini/)](https://www.linkedin.com/in/luanacristini/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/whothefisluana)](https://twitter.com/whothefisluana)
 <br>
 
  ---
